@@ -1,0 +1,4 @@
+1. There are branches named: master, index, landing, landing-ru, package, bower and answers.
+2. Branch 'index' has been merged into master.
+3. The repository has 16 commits.
+4. Commits with messages: "Added package", "Added locked package", "Removed lock"
